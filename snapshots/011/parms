@@ -1,0 +1,16 @@
+resScale 6.0
+globalScale 0.17
+thick 0.05
+rad 1.0
+rotOffs 0.2
+scaleMult 0.88
+nStuds 50.0
+nSpokes 20.0
+clrCent 0.0627450980392,0.137254901961,0.145098039216
+clrEdge 0.9,0.9,0.9
+clrEdgeDisk 0.0862745098039,0.0627450980392,0.0352941176471
+clrText 0.701960784314,0.8,0.819607843137
+diskCentral 10.0
+diskCFlip 1.0
+logoOfs 550.0
+textOfs 600.0

@@ -1,0 +1,17 @@
+Display "/home/jeremy/dev/mnc/imgPost.tif" "file" "rgb"
+			Shutter 0.2 0.8 
+
+			PixelSamples 3 3
+			PixelFilter "sinc" 2 2
+			Format 1800.0 2298.0 1
+			Projection "orthographic"
+			Imager "mncImg"
+			"uniform float addBlur" [ 0.5 ]
+			"uniform float texMult" [ 0.2 ]
+			"uniform float intens" [ 1.5 ]
+			"uniform float rx" [ 1800.0 ]
+			"uniform float ry" [ 2298.0 ]
+			ShadingRate .05
+			WorldBegin
+			WorldEnd
+			

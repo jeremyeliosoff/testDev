@@ -1,0 +1,10 @@
+resScale 4
+globalScale 0.3
+thick 0.05
+rad 1.0
+rotOffs 0.2
+scaleMult 0.88
+nStuds 20
+nSpokes 20.0
+clrCent 0.0627450980392,0.137254901961,0.145098039216
+clrEdge 0.137254901961,0.407843137255,0.627450980392

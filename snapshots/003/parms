@@ -1,0 +1,8 @@
+resScale 2.0
+globalScale 1.2
+thick 0.01
+scaleMult 0.8
+nStuds 32.0
+nSpokes 33.0
+clrCent 0.419607843137,0.188235294118,0.250980392157
+clrEdge 1.0,1.0,0.498039215686
